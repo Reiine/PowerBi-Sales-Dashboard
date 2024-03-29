@@ -1,4 +1,4 @@
-![image](https://github.com/Reiine/PowerBi-Sales-Dashboard/assets/19761028/7b130355-bc21-4d62-abab-ae3fb61c55a6)
+![image](https://github.com/Reiine/PowerBi-Sales-Dashboard/assets/19761028/831589b4-f502-4922-b0c3-1cc0068a41d2)
 ![image](https://github.com/Reiine/PowerBi-Sales-Dashboard/assets/19761028/2c9a4cb2-6475-4ee4-85e9-3a182d0c7158)
 
 
