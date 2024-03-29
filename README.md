@@ -3,7 +3,7 @@
 
 
 Objective:-
-1. To alalyse the customer's behaviour about payment modes and shipping modes chosen.
+1. To analyse the customer's behaviour about payment modes and shipping modes chosen.
 2. To understand the sales and profits received from different region.
 3. To learn about the sales by category and sub-category.
 4. To compare previous year's profit and sales to that of the current year.
