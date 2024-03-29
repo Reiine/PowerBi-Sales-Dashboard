@@ -7,4 +7,4 @@ Objective:-
 2. To understand the sales and profits received from different region.
 3. To learn about the sales by category and sub-category.
 4. To compare previous year's profit and sales to that of the current year.
-5. To forecast the sales and profits of the next 15 days based off of diffrent regions.
+5. To forecast the sales and profits of the next 15 days based off of different regions.
